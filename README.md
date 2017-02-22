@@ -1,2 +1,2 @@
-# AulaGuitHub
-Aula sobre GuitHub 
+# AulaGitHub
+Aula sobre GitHub 
